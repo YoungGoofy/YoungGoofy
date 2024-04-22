@@ -1,6 +1,10 @@
 <h1 align="center">Hi, I'm Vlad</h1>
 <h3 align="center">I'm a beginner backend developer from Russia</h3>
 
+<img align="right" alt="coding" width="400" src="https://miro.medium.com/max/1000/1*byd_7mPRMt2_I_B6V22FQw.gif">
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ashutosh-pmishra&label=Profile%20views&color=0e75b6&style=flat" alt="ashutosh-pmishra" /> </p>
+
 - I’m currently working on [WebScanner](https://github.com/YoungGoofy/WebScanner)
 
 - I’m currently learning **gin, ai**
@@ -12,6 +16,10 @@
 - How to reach me **vbi4enkov@yandex.ru**
 
 <h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://t.me/FiftyFridays" target="blank"><img align="center" src="https://www.svgrepo.com/show/55722/telegram.svg" alt="Telegram: @FiftyFridays" height="40" width="40" /></a>
+<a href="https://vk.com/fiftyfridays" target="blank"><img align="center" src="https://logos-download.com/wp-content/uploads/2021/06/VK_black_Logo_2021-2048x2048.png" alt="vk: @fiftyfridays" height="40" width="40" /></a>
+</p>
 <p align="left">
 </p>
 
