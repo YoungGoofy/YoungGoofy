@@ -10,8 +10,6 @@
 
 - I’m currently learning **gin, ai**
 
-- My Telegram channel -> [https://t.me/go_hub](https://t.me/go_hub)
-
 - Ask me about **golang, python, ai**
 
 - How to reach me **vbi4enkov@yandex.ru**
